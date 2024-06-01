@@ -76,12 +76,13 @@ html,body{
     position: absolute;
     left: 25%;
     font-weight: 500;
-    color: rgb(129, 186, 188);
+    color: rgb(44, 46, 46);
     text-transform: uppercase;
     animation-name: fuck;
     animation-duration: 1.5s;
     animation-delay: 0.5s;
     font-family: Empera Vintage;
+    /* font-family: poppins; */
     letter-spacing: 5px;
 }
 @keyframes fuck {
@@ -166,7 +167,7 @@ html,body{
     align-items: center;
     margin-left: 5%;
     top: 2%;
-    left: -10%;
+    left: -8%;
     text-decoration: none;
     font-weight: 600;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
