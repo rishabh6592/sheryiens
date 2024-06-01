@@ -74,9 +74,9 @@ html,body{
 }
 #left div h1{
     position: absolute;
-    left: 26.6%;
+    left: 25%;
     font-weight: 500;
-    color: black;
+    color: rgb(129, 186, 188);
     text-transform: uppercase;
     animation-name: fuck;
     animation-duration: 1.5s;
